@@ -7,7 +7,7 @@ function App() {
         <span>emojipedia</span>
       </h1>
 
-      <dl className="dictionary">
+      {/* <dl className="dictionary">
         <div className="term">
           <dt>
             <span className="emoji" role="img" aria-label="Tense Biceps">
@@ -46,7 +46,7 @@ function App() {
             for „rolling on the floor, laughing“.
           </dd>
         </div>
-      </dl>
+      </dl> */}
     </div>
   );
 }
